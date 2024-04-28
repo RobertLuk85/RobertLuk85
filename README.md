@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Rob
 
-I am a recent graduate with a profound interest in technology and evolving cyber security world
+I am a recent graduate with a profound interest in technology and evolving cyber security world.
+
+I will complete this later  :)
 
 
 <!--
