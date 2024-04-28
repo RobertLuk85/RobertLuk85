@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Rob
+
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
 
 <!--
 **RobertLuk85/RobertLuk85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
